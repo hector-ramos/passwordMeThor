@@ -1,0 +1,11 @@
+## ----------------
+## OS System Files
+## ----------------
+._*
+.VolumeIcon.icns
+.fseventsd
+ehthumbs.db
+Icon?
+Thumbs.db
+.DS_Store
+.com.apple.timemachine.supported
