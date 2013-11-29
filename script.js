@@ -30,6 +30,7 @@ function passwordMeter () {
     if (password.search(specialChar) >= 0) {
         hasSpecialChar = true;
     }
+
 }
 
 passwordEl.addEventListener("keyup", passwordMeter, false);
